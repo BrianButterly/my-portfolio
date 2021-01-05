@@ -36,7 +36,6 @@ export default function Project() {
                   <a
                     href={project.link}
                     alt={project.title}
-                    target="_blank"
                     rel="noopener noreferrer"
                   >
                     {project.title}
