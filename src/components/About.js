@@ -29,7 +29,7 @@ export default function About() {
 
   return (
     <main className="relative">
-      <img src={about} alt="Irish cliff" className="absolute w-full" />
+      <img src={about} alt="Irish cliff" className="absolute w-full h-full" />
       <div className="p-10 lg:pt-48 container mx-auto relative">
         <section className="bg-green-800 rounded-lg shadow-2xl lg:flex p-20">
           <img
